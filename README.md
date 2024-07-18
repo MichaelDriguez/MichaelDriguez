@@ -28,6 +28,6 @@
 
 <hr/>
 
-<h1 align="center"> 🏗️ Contribution History</h1>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
