@@ -23,7 +23,7 @@
 
 <h1 align="center"> ⚒️ Languages, Frameworks, Tools, and Operating Systems</h1>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,html,css,javascript,react,express,nodejs,git,github,gitlab,windows,ubuntu,kali" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,bash,html,css,javascript,react,express,nodejs,git,github,windows,ubuntu,kali" />
 </div>
 
 <hr/>
